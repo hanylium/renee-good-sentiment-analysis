@@ -1,0 +1,37 @@
+============================================================
+ANALYSIS SUMMARY - Renee Good ICE Shooting (YouTube)
+============================================================
+
+Total comments analyzed: 5285
+
+--- SENTIMENT DISTRIBUTION ---
+  JUSTIFIED: 976 (18.5%)
+  EXCESSIVE: 2591 (49.0%)
+  NEUTRAL: 1718 (32.5%)
+
+--- FRAMING DISTRIBUTION ---
+  MORALITY: 1215 (23.0%)
+  CONFLICT: 3327 (63.0%)
+  LEGALITY: 743 (14.1%)
+
+--- BY CHANNEL BIAS ---
+
+UNKNOWN channels (n=3326):
+  Dominant sentiment: EXCESSIVE
+  Dominant frame: CONFLICT
+
+LOCAL channels (n=669):
+  Dominant sentiment: NEUTRAL
+  Dominant frame: CONFLICT
+
+MAINSTREAM channels (n=763):
+  Dominant sentiment: EXCESSIVE
+  Dominant frame: CONFLICT
+
+LEFT channels (n=434):
+  Dominant sentiment: EXCESSIVE
+  Dominant frame: CONFLICT
+
+RIGHT channels (n=93):
+  Dominant sentiment: JUSTIFIED
+  Dominant frame: CONFLICT
