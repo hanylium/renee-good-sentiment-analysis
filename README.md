@@ -9,8 +9,6 @@ We collect Reddit comments from:
 - r/Minnesota
 - r/news
 - r/worldnews
-- r/politics
-- r/conservative
 
 Scraping is done with PRAW (Reddit API).
 
